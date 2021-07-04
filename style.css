@@ -5,6 +5,9 @@ body{
 h1{
 font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .orange-color{
     color: orange;
 }
@@ -17,7 +20,7 @@ font-size: 50px;
     padding-left: 5%;
     }
 .half-width img{
-    width: 80%;
+    width: 90%;
 }
 .link-button{
     text-decoration: none;
